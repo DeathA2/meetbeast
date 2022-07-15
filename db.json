@@ -6,7 +6,7 @@
         "name": "Beast"
     },
     {
-        "content": "Ngọn gió nào đã đưa cô gái nhỏ nhắn này đến ngôi nhà cũ kỹ của tôi vậy.",
+        "content": "Ngọn gió nào đã đưa cô gái nhỏ nhắn này đến ngôi nhà cũ kỹ của ta vậy.",
         "id": 2,
         "name": "Beast"
     },
@@ -16,7 +16,7 @@
         "name": "Princess"
     },
     {
-        "content": "Cô đã bình tĩnh hơn chưa ... Tôi có thể gọi cô là gì đây?",
+        "content": "Cô đã bình tĩnh hơn chưa ... Ta có thể gọi cô là gì đây?",
         "id": 4,
         "name": "Beast"
     },
@@ -26,17 +26,17 @@
         "name": "Beast"
     },
     {
-        "content": "Tôi chỉ là một kẻ nhút nhát đầy bí ẩn, và thích ở nhưng nơi tăm tối thôi, cô không cần phải thấy sợ hãi với tôi đâu.",
+        "content": "Ta chỉ là một kẻ nhút nhát đầy bí ẩn, và thích ở nhưng nơi tăm tối thôi, cô không cần phải thấy sợ hãi với ta đâu.",
         "id": 6,
         "name": "Beast"
     },
     {
-        "content": "N..Ng...Ngài có phải là người bí ẩn biết hết mọi thứ trên đời mà dân làng hay đồn không!?",
+        "content": "N..Ng...Ngài có phải là người bí ẩn biết hết mọi thứ trên đời mà dân làng con hay đồn không!?",
         "id": 7,
         "name": "Princess"
     },
     {
-        "content": "Tôi chỉ là một thực thể sống lâu hơn con người bình thường một chút thôi, cũng không quá vĩ đại như người dân cô đồn về tôi đâu.",
+        "content": "ta chỉ là một thực thể sống lâu hơn con người bình thường một chút thôi, cũng không quá vĩ đại như con người nghĩ.",
         "id": 8,
         "name": "Beast"
     },
@@ -46,22 +46,22 @@
         "name": "Princess"
     },
     {
-        "content": "bé nhỏ có điều gì muốn hỏi tôi sao!?\nCô cứ việc nói ra, tôi sẽ giúp cô bằng mọi khả năng của tôi.",
+        "content": "bé nhỏ có điều gì muốn hỏi ta sao!?\nCô cứ việc nói ra, ta sẽ giúp cô bằng mọi khả năng của ta.",
         "id": 10,
         "name": "Beast"
     },
     {
-        "content": "Vậy ngài có thể cho tôi biết người đàn ông có thể chăm sóc và quan tâm đến tôi là ai có được không!?",
+        "content": "Vậy ngài có thể cho con biết người đàn ông có thể chăm sóc và quan tâm con là ai có được không ạ!?",
         "id": 11,
         "name": "Princess"
     },
     {
-        "content": "Hmmmmm...\n Chuyện tình cảm là mốt thứ gì đó rất khó để tôi khẳng định!!",
+        "content": "Hmmmmm...\n Chuyện tình cảm là một thứ gì đó rất khó để ta khẳng định!!",
         "id": 12,
         "name": "Beast"
     },
     {
-        "content": "Thôi được rồi, sau đây tôi sẽ cho cô thấy những người phù hợp với cô. Cô hãy để ý thật kỹ và chọn ra người phù hợp với mình nhé!",
+        "content": "Thôi được rồi, ta sẽ cho cô thấy những người ta nghĩ là phù hợp với cô. Cô hãy để ý thật kỹ và chọn ra người phù hợp với mình nhé!",
         "id": 13,
         "name": "Beast"
     },
@@ -71,7 +71,7 @@
         "name": "Beast"
     },
     {
-        "content": "Vâng tôi đã chọn được rồi thưa ngài. Người tôi chọn chính là: ",
+        "content": "Vâng con đã chọn được rồi thưa ngài. Người con chọn chính là: ",
         "id": 15,
         "name": "Princess"
     },
@@ -86,7 +86,7 @@
         "name": "unknown"
     },
     {
-        "content": "Cảm ơn ngài rất nhiều, tôi sẽ quay lại thăm ngài vào dịp khác ạ!!!",
+        "content": "Cảm ơn ngài rất nhiều, con sẽ quay lại thăm ngài vào dịp khác ạ!!!",
         "id": 18,
         "name": "Princess"
     }
