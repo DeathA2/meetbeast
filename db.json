@@ -26,68 +26,73 @@
         "name": "Beast"
     },
     {
-        "content": "Ta chỉ là một kẻ nhút nhát đầy bí ẩn, và thích ở nhưng nơi tăm tối thôi, cô không cần phải thấy sợ hãi với ta đâu.",
+        "content": " ",
         "id": 6,
+        "name": "Princess"
+    },
+    {
+        "content": "Ta chỉ là một kẻ nhút nhát đầy bí ẩn, và thích ở nhưng nơi tăm tối thôi, cô không cần phải thấy sợ hãi với ta đâu.",
+        "id": 7,
         "name": "Beast"
     },
     {
         "content": "N..Ng...Ngài có phải là người bí ẩn biết hết mọi thứ trên đời mà dân làng con hay đồn không!?",
-        "id": 7,
+        "id": 8,
         "name": "Princess"
     },
     {
         "content": "ta chỉ là một thực thể sống lâu hơn con người bình thường một chút thôi, cũng không quá vĩ đại như con người nghĩ.",
-        "id": 8,
+        "id": 9,
         "name": "Beast"
     },
     {
         "content": "Vậy sao...",
-        "id": 9,
+        "id": 10,
         "name": "Princess"
     },
     {
         "content": "bé nhỏ có điều gì muốn hỏi ta sao!?\nCô cứ việc nói ra, ta sẽ giúp cô bằng mọi khả năng của ta.",
-        "id": 10,
+        "id": 11,
         "name": "Beast"
     },
     {
         "content": "Vậy ngài có thể cho con biết người đàn ông có thể chăm sóc và quan tâm con là ai có được không ạ!?",
-        "id": 11,
+        "id": 12,
         "name": "Princess"
     },
     {
         "content": "Hmmmmm...\n Chuyện tình cảm là một thứ gì đó rất khó để ta khẳng định!!",
-        "id": 12,
-        "name": "Beast"
-    },
-    {
-        "content": "Thôi được rồi, ta sẽ cho cô thấy những người ta nghĩ là phù hợp với cô. Cô hãy để ý thật kỹ và chọn ra người phù hợp với mình nhé!",
         "id": 13,
         "name": "Beast"
     },
     {
-        "content": "Cô đã chọn ra được người mình thấy thích chưa!?",
+        "content": "Thôi được rồi, ta sẽ cho cô thấy những người ta nghĩ là phù hợp với cô. Cô hãy để ý thật kỹ và chọn ra người phù hợp với mình nhé!",
         "id": 14,
         "name": "Beast"
     },
     {
-        "content": "Vâng con đã chọn được rồi thưa ngài. Người con chọn chính là: ",
+        "content": "Cô đã chọn ra được người mình thấy thích chưa!?",
         "id": 15,
+        "name": "Beast"
+    },
+    {
+        "content": "Vâng con đã chọn được rồi thưa ngài. Người con chọn chính là: ",
+        "id": 16,
         "name": "Princess"
     },
     {
         "content": "Đó là một lựa chọn đúng đắn đấy cô gái bé nhỏ à. Vậy thì hãy sống thật hạnh phúc với người cô chọn nhé. Tạm biệt cô gái nhỏ!!",
-        "id": 16,
+        "id": 17,
         "name": "Beast"
     },
     {
         "content": "*Dứt lời, con quái vật cùng tòa lâu đài chìm vào trong lớp sương mù, để lại cô gái nhỏ cùng một con đường thẳng tắp hướng ra khỏi khu rừng*",
-        "id": 17,
+        "id": 18,
         "name": "unknown"
     },
     {
         "content": "Cảm ơn ngài rất nhiều, con sẽ quay lại thăm ngài vào dịp khác ạ!!!",
-        "id": 18,
+        "id": 19,
         "name": "Princess"
     }
 ]
