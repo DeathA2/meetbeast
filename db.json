@@ -95,5 +95,37 @@
         "id": 19,
         "name": "Princess"
     }
+  ],
+  "second":[
+    {
+        "content": "Chào ngài, con quay lại rồi nè!",
+        "id": 1,
+        "name": "Princess"
+    },
+    {
+        "content": "Chào ",
+        "id": 2,
+        "name": "Beast"
+    },
+    {
+        "content": "Cô có thấy hạnh phúc với tình yêu của mình chứ!!",
+        "id": 3,
+        "name": "Beast"
+    },
+    {
+        "content": "................",
+        "id": 4,
+        "name": "Princess"
+    },
+    {
+        "content": "Được rồi, để tự bản thân ta xem xét ...",
+        "id": 5,
+        "name": "Beast"
+    },
+    {
+        "content": "Lại gần đây nào cô gái nhỏ.",
+        "id": 6,
+        "name": "Beast"
+    }
 ]
 }
